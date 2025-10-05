@@ -2,6 +2,7 @@
 Power BI is a cloud-based data analytics tool that helps you transform raw data into meaningful insights using interactive dashboards, reports, and visuals.
 
 🩺 Power BI Project: Heart Disease Analysis Dashboard
+
 🟩 1. Project Objective
 
 To analyze health data of patients and identify key factors influencing heart disease risk.
